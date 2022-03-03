@@ -1,0 +1,2 @@
+#!/bin/bash
+chgrp a+u _vincent/staff
