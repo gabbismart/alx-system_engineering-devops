@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod --reference=betty hello
+#1/bin/bash
+betty
